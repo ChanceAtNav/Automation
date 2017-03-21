@@ -1,0 +1,10 @@
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Tests.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Tests.pdb
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Console.exe
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Framework.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Console.pdb
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\bin\Debug\Framework.pdb
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\obj\Debug\Tests.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,8 @@
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\obj\Debug\NavWeb.csprojResolveAssemblyReference.cache
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\bin\Debug\NavWeb.dll
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\bin\Debug\NavWeb.pdb
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\bin\Debug\WebDriver.dll
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\bin\Debug\WebDriver.xml
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\obj\Debug\NavWeb.dll
+c:\users\chance\documents\visual studio 2015\Projects\NavWeb\NavWeb\obj\Debug\NavWeb.pdb

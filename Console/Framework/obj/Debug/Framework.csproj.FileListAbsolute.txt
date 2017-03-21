@@ -1,0 +1,9 @@
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\Framework.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\Framework.pdb
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\WebDriver.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\WebDriver.xml
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\obj\Debug\Framework.dll
+C:\Users\chance\documents\visual studio 2015\Projects\Console\Framework\obj\Debug\Framework.pdb
